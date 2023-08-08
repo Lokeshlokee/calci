@@ -1,0 +1,39 @@
+body{
+    background-image: url(top-view-calculator-notebook-frame_23-2149103980.avif);
+}
+
+.calculator{
+    height: 50px;
+    width: 50px;
+    margin-left: 225px;
+    margin-top: 100px;
+}
+input{
+    width:250px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    border-radius: 1mm;
+
+}
+input:hover{
+    background-color: lightpink;
+    border-color: black;
+    
+
+}
+button{
+    height: 50px;;
+    width: 50px;
+    background-color: lightpink;
+    border-radius: 100%;
+    margin-left: 5px;
+    
+
+}
+button:hover{
+    background-color: white;
+    border-color: lightpink;
+    cursor: pointer;
+    box-shadow: 3px 3px black;
+}
